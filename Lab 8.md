@@ -3,4 +3,5 @@ Write shell scripts to print system information.
 Implementation:
 echo "System Information:"
 echo $(lscpu)
-"C:\Users\Admin\Desktop\Lab 8\Answer(Sysinfo).png"
+![Answer(Sysinfo)](https://github.com/user-attachments/assets/de9aa242-f001-4e9b-ab03-65a35c8ec039)
+
